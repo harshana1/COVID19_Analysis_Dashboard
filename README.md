@@ -79,6 +79,7 @@ The Power BI dashboard (`Covid19_Dashboard.pbix`) visualizes the SQL results wit
 - New deaths continue to rise globally, highlighted in the **gauge visual**.  
 
 ---
+<img width="1302" height="730" alt="ScreenshotsDashboard_Full png" src="https://github.com/user-attachments/assets/aee6bbce-8b2d-41d0-85f1-e4a1e26e8676" />
 
 ---
 
