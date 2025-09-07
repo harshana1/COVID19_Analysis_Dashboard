@@ -45,9 +45,9 @@ The SQL part performs the following analyses:
 The Power BI dashboard (`Covid19_Dashboard.pbix`) visualizes the SQL results with the following visuals:  
 
 ### 🔹 **Cards (KPI)**
-- **Card 1** → Total Deaths  
-- **Card 2** → Total Confirmed  
-- **Card 3** → Total Recovered  
+- **KPI 1** → Total Deaths  
+- **KPI 2** → Total Confirmed  
+- **KPI 3** → Total Recovered  
 
 ### 🔹 **Gauge**
 - **Gauge Visual** → Shows **New Deaths**  
