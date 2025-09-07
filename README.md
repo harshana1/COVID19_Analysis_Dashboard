@@ -80,7 +80,8 @@ The Power BI dashboard (`Covid19_Dashboard.pbix`) visualizes the SQL results wit
 
 ---
 ## Screenshot
-<img width="1302" height="730" alt="ScreenshotsDashboard_Full png" src="https://github.com/user-attachments/assets/aee6bbce-8b2d-41d0-85f1-e4a1e26e8676" />
+<img width="1302" height="730" alt="Covid-19 country & regional anaysis dashboard screenshot png" src="[https://github.com/user-attachments/assets/aee6bbce-8b2d-41d0-85f1-e4a1e26e8676](https://github.com/harshana1/COVID19_Analysis_Dashboard/blob/main/Screenshots/Covid-19%20country%20%26%20regional%20anaysis%20dashboard%20screenshot.png)" />
+
 
 ---
 
